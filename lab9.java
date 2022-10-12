@@ -27,7 +27,7 @@ public class lab9
         /*
          * Need to get temperature from user in fahrenheit and convert
          * to celsius. Need to first get user input to name file they
-         * want the array to go to see project 1 P2().
+         * want the array to go to see project 1 P3().
          */
         String sizeofarray = JOptionPane.showInputDialog("enter size of array");
         int num1 = Integer.parseInt(sizeofarray);
