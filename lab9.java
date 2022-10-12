@@ -22,18 +22,23 @@ public class lab9
         String Last = JOptionPane.showInputDialog("Enter your last name");
         JOptionPane.showMessageDialog(null, "Hello "+First+" "+Middle+" "+Last); 
     }
-    static void P2()
+   static void P2()
     {
         String sizeofarray = JOptionPane.showInputDialog("enter size of array");
         int num1 = Integer.parseInt(sizeofarray);
         Double [] TempArray = new Double [num1];
         //JOptionPane.showMessageDialog(null, "Enter elements of array");
         for(int i=0; i<num1; i++){
-            JOptionPane.showInputDialog(null, "Enter elements of array");
-            double TempArrayX[] = Double.parseDouble();
+            int TempArrayX=0;
+            TempArrayX=Integer.parseInt(JOptionPane.showInputDialog(null, "Enter elements of array"));
+           // double TempArrayX[] = Double.parseDouble();
             System.out.println(TempArray[i]+" degrees farenheight");
             
         }
+        
+    }
+    static void P3()
+    {
         
     }
 
