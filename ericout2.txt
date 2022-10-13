@@ -1,0 +1,4 @@
+-16.11111111111111 degrees farenheight is -16.11111111111111 degrees celsius-15.555555555555555 degrees farenheight is -15.555555555555555 degrees celsius-15.0 degrees farenheight is -15.0 degrees celsius-14.444444444444445 degrees farenheight is -14.444444444444445 degrees celsius-13.88888888888889 degrees farenheight is -13.88888888888889 degrees celsius-13.333333333333332 degrees farenheight is -13.333333333333332 degrees celsiusThe sum is: -88.33
+The sum is: 0.90
+The sum is: 0.95
+The sum is: -14.72
